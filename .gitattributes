@@ -248,6 +248,7 @@ Demo/Common/ethernet/lwIP/netif/ppp/magic.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP/netif/ppp/md5.c svn_needs-lock=*
 Demo/Common/ethernet/lwIP/netif/ppp/md5.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP/netif/ppp/pap.c svn_needs-lock=*
+Demo/Common/ethernet/lwIP/netif/ppp/pap.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP/netif/ppp/ppp.c svn_needs-lock=*
 Demo/Common/ethernet/lwIP/netif/ppp/ppp.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP/netif/ppp/pppdebug.h svn_needs-lock=*
