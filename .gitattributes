@@ -855,6 +855,7 @@ Demo/Common/include/AltQTest.h svn_needs-lock=*
 Demo/Common/include/GenQTest.h svn_needs-lock=*
 Demo/Common/include/QPeek.h svn_needs-lock=*
 Demo/Common/include/countsem.h svn_needs-lock=*
+Demo/Common/include/recmutex.h svn_needs-lock=*
 Demo/Flshlite/RTOSDEMO.IDE svn_mime_002dtype=application%2Foctet-stream
 Demo/Flshlite/rtosdemo.DSW svn_mime_002dtype=application%2Foctet-stream
 Demo/H8S/RTOSDemo/Debug/Debug.hdp svn_mime_002dtype=application%2Foctet-stream
