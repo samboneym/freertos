@@ -709,7 +709,6 @@ Demo/Common/Minimal/countsem.c svn_needs-lock=*
 Demo/Common/Minimal/recmutex.c svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/EULA.txt svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/IAR/driverlib.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/Common/drivers/LuminaryMicro/IAR/driverlib.r79 svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/Keil/driverlib.lib svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/Rowley/libdriver.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/adc.h svn_needs-lock=*
