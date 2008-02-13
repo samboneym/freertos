@@ -930,6 +930,11 @@ Demo/MB96340_Softune/FreeRTOS_96348hs_FLASHCAN100P340/options.dat svn_needs-lock
 Demo/MB96340_Softune/FreeRTOS_96348hs_FLASHCAN100P340/readme.txt svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/FreeRTOS_96348hs_SK16FX100PMC.prj svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Prc/romconst.prc svn_needs-lock=*
+Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/STANDALONE/OPT/FreeRTOS_96348hs_SK16FX100PMC.opa svn_needs-lock=*
+Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/STANDALONE/OPT/FreeRTOS_96348hs_SK16FX100PMC.opb svn_needs-lock=*
+Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/STANDALONE/OPT/FreeRTOS_96348hs_SK16FX100PMC.opc svn_needs-lock=*
+Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/STANDALONE/OPT/FreeRTOS_96348hs_SK16FX100PMC.opl svn_needs-lock=*
+Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/STANDALONE/OPT/FreeRTOS_96348hs_SK16FX100PMC.opv svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Simulator.sup svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/START.ASM svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/config/FreeRTOSConfig.h svn_needs-lock=*
