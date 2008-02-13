@@ -943,11 +943,6 @@ Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_3/MB2198-01_COM2.sup s
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_3/MB2198-01_LAN.sup svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_3/MB2198-01_USB.sup svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_3/Simulator.sup svn_needs-lock=*
-Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_4/MB2198-01_COM1.sup svn_needs-lock=*
-Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_4/MB2198-01_COM2.sup svn_needs-lock=*
-Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_4/MB2198-01_LAN.sup svn_needs-lock=*
-Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_4/MB2198-01_USB.sup svn_needs-lock=*
-Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Config_4/Simulator.sup svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/FreeRTOS_96348hs_SK16FX100PMC.prj svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Prc/romconst.prc svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Simulator.sup svn_needs-lock=*
