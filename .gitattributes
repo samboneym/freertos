@@ -884,6 +884,7 @@ Demo/MB91460_Softune/SRC/mb91467d.h svn_needs-lock=*
 Demo/MB91460_Softune/SRC/partest/partest.c svn_needs-lock=*
 Demo/MB91460_Softune/SRC/serial/serial.c svn_needs-lock=*
 Demo/MB91460_Softune/SRC/utility/taskutility.c svn_needs-lock=*
+Demo/MB91460_Softune/SRC/utility/taskutility.h svn_needs-lock=*
 Demo/MB91460_Softune/SRC/vectors.c svn_needs-lock=*
 Demo/MB91460_Softune/SRC/vectors.h svn_needs-lock=*
 Demo/MB91460_Softune/SRC/watchdog/watchdog.c svn_needs-lock=*
