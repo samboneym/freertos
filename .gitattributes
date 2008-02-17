@@ -945,6 +945,7 @@ Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/crflash_sk16fx100mpc.c sv
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/mb96348hs.asm svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/mb96348hs.h svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/serial/serial.c svn_needs-lock=*
+Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/utility/printf_stdarg.c svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/utility/taskutility.c svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/utility/taskutility.h svn_needs-lock=*
 Demo/MB96340_Softune/FreeRTOS_96348hs_SK16FX100PMC/Src/vectors.c svn_needs-lock=*
