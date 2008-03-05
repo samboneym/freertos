@@ -961,7 +961,6 @@ Demo/PPC405_Xilinx_Virtex4_GCC/data/system.ucf svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/etc/bitgen.ut svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/etc/download.cmd svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/etc/fast_runtime.opt svn_needs-lock=*
-Demo/PPC405_Xilinx_Virtex4_GCC/system.log svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system.make svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system.mhs svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system.mss svn_needs-lock=*
