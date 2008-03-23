@@ -566,7 +566,6 @@ Demo/CORTEX_LM3Sxxxx_Eclipse/RTOSDemo/webserver/webserver.h svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_Eclipse/fury_ft2232.cfg svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_Eclipse/fury_ft2232_flash.cfg svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_Eclipse/program.script svn_needs-lock=*
-Demo/CORTEX_LM3Sxxxx_IAR_Keil/Debug/Obj/RTOSDemo.pbd svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_IAR_Keil/FreeRTOSConfig.h svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_IAR_Keil/LM3Sxxxx.icf svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_IAR_Keil/ParTest/ParTest.c svn_needs-lock=*
