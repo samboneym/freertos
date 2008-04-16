@@ -702,16 +702,21 @@ Demo/Common/Minimal/QPeek.c svn_needs-lock=*
 Demo/Common/Minimal/countsem.c svn_needs-lock=*
 Demo/Common/Minimal/recmutex.c svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/EULA.txt svn_needs-lock=*
+Demo/Common/drivers/LuminaryMicro/IAR/driverlib.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Common/drivers/LuminaryMicro/IAR/grlib.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/Keil/driverlib.lib svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Common/drivers/LuminaryMicro/Keil/grlib.lib svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/Rowley/libdriver.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/adc.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/arm-none-eabi-gcc/libdriver.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Common/drivers/LuminaryMicro/arm-none-eabi-gcc/libgr.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/can.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/comp.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/cpu.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/debug.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/ethernet.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/gpio.h svn_needs-lock=*
+Demo/Common/drivers/LuminaryMicro/grlib.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hibernate.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hw_adc.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hw_can.h svn_needs-lock=*
@@ -731,14 +736,18 @@ Demo/Common/drivers/LuminaryMicro/hw_sysctl.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hw_timer.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hw_types.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hw_uart.h svn_needs-lock=*
+Demo/Common/drivers/LuminaryMicro/hw_udma.h svn_needs-lock=*
+Demo/Common/drivers/LuminaryMicro/hw_usb.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/hw_watchdog.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/i2c.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/interrupt.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/lmi_flash.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/lmi_timer.h svn_needs-lock=*
+Demo/Common/drivers/LuminaryMicro/mpu.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/pwm.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/qei.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/rit128x96x4.h svn_needs-lock=*
+Demo/Common/drivers/LuminaryMicro/rom.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/ssi.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/sysctl.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/systick.h svn_needs-lock=*
