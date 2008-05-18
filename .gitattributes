@@ -702,6 +702,7 @@ Demo/Common/Minimal/AltBlock.c svn_needs-lock=*
 Demo/Common/Minimal/AltPollQ.c svn_needs-lock=*
 Demo/Common/Minimal/AltQTest.c svn_needs-lock=*
 Demo/Common/Minimal/GenQTest.c svn_needs-lock=*
+Demo/Common/Minimal/IntQueue.c svn_needs-lock=*
 Demo/Common/Minimal/QPeek.c svn_needs-lock=*
 Demo/Common/Minimal/countsem.c svn_needs-lock=*
 Demo/Common/Minimal/recmutex.c svn_needs-lock=*
