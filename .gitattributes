@@ -859,6 +859,7 @@ Demo/Common/include/AltBlock.h svn_needs-lock=*
 Demo/Common/include/AltPollQ.h svn_needs-lock=*
 Demo/Common/include/AltQTest.h svn_needs-lock=*
 Demo/Common/include/GenQTest.h svn_needs-lock=*
+Demo/Common/include/IntQueue.h svn_needs-lock=*
 Demo/Common/include/QPeek.h svn_needs-lock=*
 Demo/Common/include/countsem.h svn_needs-lock=*
 Demo/Common/include/recmutex.h svn_needs-lock=*
