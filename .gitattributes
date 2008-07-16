@@ -1244,6 +1244,7 @@ Source/portable/IAR/AVR32_UC3/port.c svn_needs-lock=*
 Source/portable/IAR/AVR32_UC3/portmacro.h svn_needs-lock=*
 Source/portable/IAR/AVR32_UC3/read.c svn_needs-lock=*
 Source/portable/IAR/AVR32_UC3/write.c svn_needs-lock=*
+Source/portable/MPLAB/PIC24_dsPIC/portasm_PIC24_dsPIC.S svn_needs-lock=*
 Source/portable/MPLAB/PIC32MX/ISR_Support.h svn_needs-lock=*
 Source/portable/MPLAB/PIC32MX/port.c svn_needs-lock=*
 Source/portable/MPLAB/PIC32MX/port_asm.S svn_needs-lock=*
