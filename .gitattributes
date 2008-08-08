@@ -748,6 +748,7 @@ Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/ParTest/ParTest.c svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram-hosted.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/main.c svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/serial/serial.c svn_needs-lock=*
 Demo/Common/Minimal/AltBlckQ.c svn_needs-lock=*
 Demo/Common/Minimal/AltBlock.c svn_needs-lock=*
 Demo/Common/Minimal/AltPollQ.c svn_needs-lock=*
