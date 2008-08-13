@@ -747,6 +747,7 @@ Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_SDRAMC.h svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_UART.h svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_WTM.h svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/ParTest/ParTest.c svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-dram_code-rambar_data-hosted.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram-hosted.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/main.c svn_needs-lock=*
