@@ -714,6 +714,78 @@ Demo/CORTEX_STM32F103_Primer_GCC/bitmap.h svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/main.c svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/printf-stdarg.c svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/timertest.c svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.mylyn/repositories.xml.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.cdt.core/shareddefaults.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/RTOSDemo.sc svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.ui/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.cdt.ui/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/5b/5e/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/5b/e7/74/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/5b/e7/a1/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/5b/e7/a1/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/a8/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/18/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/b3/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/b3/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/c/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/c/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/c7/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/f7/29/7f/99/81/ce/1e/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/f7/29/7f/99/81/ce/1e/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/f7/29/7f/e4/1a/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/f7/7f/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/f7/7f/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/f7/a8/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/history.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.markers svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/33.tree svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prj-RTOSDemo.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.managedbuilder.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.mylyn.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.equinox.p2.ui.sdk.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.search.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/RTOSDemo.launch svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.search/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/workbench.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml svn_needs-lock=*
+Demo/ColdFire_MCF5282_Eclipse/.metadata/version.ini svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/.cproject svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/.project svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/FreeRTOSConfig.h svn_needs-lock=*
