@@ -748,7 +748,6 @@ Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_UART.h svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_WTM.h svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/ParTest/ParTest.c svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-dram_code-rambar_data-hosted.ld svn_needs-lock=*
-Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram-hosted.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram.ld svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/main.c svn_needs-lock=*
 Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/serial/serial.c svn_needs-lock=*
@@ -962,7 +961,7 @@ Demo/Common/ethernet/lwIP_130/contrib/port/FreeRTOS/STR91x/arch/init.h svn_needs
 Demo/Common/ethernet/lwIP_130/contrib/port/FreeRTOS/STR91x/arch/lib.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/contrib/port/FreeRTOS/STR91x/arch/perf.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/contrib/port/FreeRTOS/STR91x/arch/sys_arch.h svn_needs-lock=*
-Demo/Common/ethernet/lwIP_130/contrib/port/FreeRTOS/STR91x/sys_arch.c svn_needs-lock=*
+Demo/Common/ethernet/lwIP_130/contrib/port/FreeRTOS/sys_arch.c svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/doc/contrib.txt svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/doc/rawapi.txt svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/doc/savannah.txt svn_needs-lock=*
