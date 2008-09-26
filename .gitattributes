@@ -1367,6 +1367,8 @@ Demo/PPC405_Xilinx_Virtex4_GCC/system.xmp svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system_incl.make svn_needs-lock=*
 Demo/Unsupported_Demos/AT91SAM9260_Rowley_lwIP_BK.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/Blackfin_BF533_VDSP_LY.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/FreeRTOS_Flash_File_system_USB_LPC2148_Demo_v120-JCW.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/Free_RTOS_Demo_With_FatFS_and_LPCUSB-JCW.gz svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/HCS12_HCS12X_CodeWarrior_OAF.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/Jennic_JN5139_GCC_IM.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/LPC2138_Keil_RVDS_MCB2130_FD.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
