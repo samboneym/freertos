@@ -173,6 +173,7 @@ Demo/ARM7_LPC2368_Eclipse/RTOSDemo/LCD/portlcd.h svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/ParTest/ParTest.c svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/boot.s svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/lpc2368.ld svn_needs-lock=*
+Demo/ARM7_LPC2368_Eclipse/RTOSDemo/lpc23xx.h svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/main.c svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/webserver/EMAC_ISR.c svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/webserver/clock-arch.h svn_needs-lock=*
