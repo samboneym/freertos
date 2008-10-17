@@ -719,9 +719,6 @@ Demo/CORTEX_STM32F103_Primer_GCC/timertest.c svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/RTOSDemo.mcp svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52221_CodeWarrior/RTOSDemo_Data/CWSettingsWindows.stg svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52221_CodeWarrior/RTOSDemo_Data/INTERNAL_FLASH/TargetDataWindows.tdt svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/ColdFire_MCF52221_CodeWarrior/bin/MCF52221_INTERNAL_FLASH.elf svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/ColdFire_MCF52221_CodeWarrior/bin/MCF52221_INTERNAL_FLASH.elf.S19 svn_needs-lock=*
-Demo/ColdFire_MCF52221_CodeWarrior/bin/MCF52221_INTERNAL_FLASH.elf.xMAP svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/cfg/MCF52221_CONSOLE_INTERNAL_RAM.cfg svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/cfg/MCF52221_CONSOLE_INTERNAL_RAM.mem svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/cfg/MCF52221_INTERNAL_FLASH.cfg svn_needs-lock=*
