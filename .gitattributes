@@ -170,7 +170,6 @@ Demo/ARM7_LPC2368_Eclipse/RTOSDemo/.settings/org.eclipse.ltk.core.refactoring.pr
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/FreeRTOSConfig.h svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/LCD/portlcd.c svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/LCD/portlcd.h svn_needs-lock=*
-Demo/ARM7_LPC2368_Eclipse/RTOSDemo/LPC23xx.h svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/ParTest/ParTest.c svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/boot.s svn_needs-lock=*
 Demo/ARM7_LPC2368_Eclipse/RTOSDemo/lpc2368.ld svn_needs-lock=*
