@@ -1589,6 +1589,7 @@ Source/portable/RVDS/ARM7_LPC21xx/port.c svn_needs-lock=*
 Source/portable/RVDS/ARM7_LPC21xx/portASM.s svn_needs-lock=*
 Source/portable/RVDS/ARM7_LPC21xx/portmacro.h svn_needs-lock=*
 Source/portable/RVDS/ARM7_LPC21xx/portmacro.inc svn_needs-lock=*
+Source/portable/Rowley/MSP430F449/portasm.h svn_needs-lock=*
 Source/portable/Softune/MB91460/__STD_LIB_sbrk.c svn_needs-lock=*
 Source/portable/Softune/MB91460/port.c svn_needs-lock=*
 Source/portable/Softune/MB91460/portmacro.h svn_needs-lock=*
