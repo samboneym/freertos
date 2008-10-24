@@ -1446,6 +1446,7 @@ Demo/Unsupported_Demos/STR9_lwIP_1_3_0_GCC_SO.zip svn_needs-lock=* svn_mime_002d
 Demo/Unsupported_Demos/SuperH_HEW4_GCC8.01_PS.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/TriCore_AS.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/eZ80_JMR.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/lwip_AT91SAM9260_GCC_MP.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/readme.txt svn_needs-lock=*
 Demo/Unsupported_Demos/x86_VisualStudio8_DJ.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/WizNET_DEMO_TERN_186/AE.LIB svn_mime_002dtype=application%2Foctet-stream
