@@ -774,6 +774,7 @@ Demo/ColdFire_MCF52221_CodeWarrior/sources/exceptions.h svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/lwipopts.h svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/main.c svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/printf-stdarg.c svn_needs-lock=*
+Demo/ColdFire_MCF52221_CodeWarrior/sources/serial/serial.c svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/startcf.c svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/startcf.h svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/stdlib.c svn_needs-lock=*
