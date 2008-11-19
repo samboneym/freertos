@@ -782,7 +782,6 @@ Demo/ColdFire_MCF52221_CodeWarrior/sources/stdlib.h svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/support_common.h svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/uart_support.c svn_needs-lock=*
 Demo/ColdFire_MCF52221_CodeWarrior/sources/uart_support.h svn_needs-lock=*
-Demo/ColdFire_MCF52233_Eclipse/.metadata/.lock svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.log svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.mylyn/repositories.xml.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.core/.log svn_needs-lock=*
