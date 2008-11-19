@@ -789,6 +789,7 @@ Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/.log
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/RTOSDemo.sc svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.ui/dialog_settings.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.cdt.ui/dialog_settings.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.markers svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
@@ -813,6 +814,7 @@ Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.core/variables
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml svn_needs-lock=*
