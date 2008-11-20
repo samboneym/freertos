@@ -798,8 +798,11 @@ Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.ro
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prj-RTOSDemo.prefs svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.core.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.managedbuilder.core.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs svn_needs-lock=*
@@ -807,9 +810,13 @@ Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.sett
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.equinox.p2.ui.sdk.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/RTOSDemo.launch svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml svn_needs-lock=*
@@ -823,6 +830,9 @@ Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/dialo
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/workbench.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/.metadata/version.ini svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/.cproject svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/.project svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/.settings/org.eclipse.ltk.core.refactoring.prefs svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/FreeRTOSConfig.h svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/FreeRTOS_Tick_Setup.c svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/MCF5223x/MCF52235.h svn_needs-lock=*
