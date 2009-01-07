@@ -257,6 +257,7 @@ Demo/ARM9_AT91SAM9XE_IAR/ewp/at91sam9xe-ek-sdram.mac svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/at91sam9xe-ek-sram.mac svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/at91sam9xe-ek.ewd svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/at91sam9xe-ek.ewp svn_needs-lock=*
+Demo/ARM9_AT91SAM9XE_IAR/ewp/flash.icf svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/sdram.icf svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/settings/at91sam9xe-ek.cspy.bat svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/settings/at91sam9xe-ek.dbgdt svn_needs-lock=*
