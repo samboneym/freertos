@@ -1858,6 +1858,7 @@ Source/portable/IAR/MSP430/port.c svn_needs-lock=*
 Source/portable/IAR/MSP430/portasm.h svn_needs-lock=*
 Source/portable/IAR/MSP430/portext.s43 svn_needs-lock=*
 Source/portable/IAR/MSP430/portmacro.h svn_needs-lock=*
+Source/portable/IAR/V850ES_Fx3/ISR_Support.h svn_needs-lock=*
 Source/portable/IAR/V850ES_Fx3/port.c svn_needs-lock=*
 Source/portable/IAR/V850ES_Fx3/portasm.s85 svn_needs-lock=*
 Source/portable/IAR/V850ES_Fx3/portmacro.h svn_needs-lock=*
