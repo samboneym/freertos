@@ -1550,7 +1550,6 @@ Demo/NEC_78K0R_IAR/ButtonISR.s26 svn_needs-lock=*
 Demo/NEC_78K0R_IAR/ButtonTask.c svn_needs-lock=*
 Demo/NEC_78K0R_IAR/FreeRTOSConfig.h svn_needs-lock=*
 Demo/NEC_78K0R_IAR/RegTest.s26 svn_needs-lock=*
-Demo/NEC_78K0R_IAR/int78K0R.h svn_needs-lock=*
 Demo/NEC_78K0R_IAR/main.c svn_needs-lock=*
 Demo/NEC_78K0R_IAR/rtosdemo.ewd svn_needs-lock=*
 Demo/NEC_78K0R_IAR/rtosdemo.ewp svn_needs-lock=*
