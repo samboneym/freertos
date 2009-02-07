@@ -890,6 +890,8 @@ Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-cgi.h svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs.c svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs.h svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs/404.html svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs/image.html svn_needs-lock=*
+Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs/image.jpg svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs/index.html svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs/index.shtml svn_needs-lock=*
 Demo/ColdFire_MCF52233_Eclipse/RTOSDemo/webserver/httpd-fs/io.shtml svn_needs-lock=*
