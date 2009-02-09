@@ -263,6 +263,7 @@ Demo/ARM9_AT91SAM9XE_IAR/ewp/settings/at91sam9xe-ek.cspy.bat svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/settings/at91sam9xe-ek.dbgdt svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/ewp/settings/at91sam9xe-ek.dni svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/main.c svn_needs-lock=*
+Demo/ARM9_AT91SAM9XE_IAR/serial/serial.c svn_needs-lock=*
 Demo/ARM9_AT91SAM9XE_IAR/settings/rtosdemo.wsdt svn_needs-lock=*
 Demo/ARM9_STR91X_IAR/91x_init.s svn_needs-lock=*
 Demo/ARM9_STR91X_IAR/91x_vect.s svn_needs-lock=*
