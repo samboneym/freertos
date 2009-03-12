@@ -1779,6 +1779,7 @@ Demo/Unsupported_Demos/LPC2138_Keil_RVDS_MCB2130_FD.zip svn_needs-lock=* svn_mim
 Demo/Unsupported_Demos/LPC2368_IAR_KF.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/M16C_iar_FD.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/Mico32_GCC_KF.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/OMAP_L137_kh.zip svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/PIC_18F8520_in_VEX_Controller_20081123_PM.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/SAM7X_Keil_RVDS_lwIP_1.3_MM.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/STR9_GCC_BH.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
