@@ -232,6 +232,7 @@ Demo/ARM7_LPC2368_Rowley/webserver/httpd-cgi.h svn_needs-lock=*
 Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs.c svn_needs-lock=*
 Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs.h svn_needs-lock=*
 Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs/404.html svn_needs-lock=*
+Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs/image.jpg svn_mime_002dtype=application%2Foctet-stream
 Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs/index.html svn_needs-lock=*
 Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs/index.shtml svn_needs-lock=*
 Demo/ARM7_LPC2368_Rowley/webserver/httpd-fs/io.shtml svn_needs-lock=*
