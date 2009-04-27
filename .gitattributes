@@ -112,7 +112,6 @@ Demo/ARM7_LPC2129_Keil_RVDS/FreeRTOSConfig.h svn_needs-lock=*
 Demo/ARM7_LPC2129_Keil_RVDS/ParTest/ParTest.c svn_needs-lock=*
 Demo/ARM7_LPC2129_Keil_RVDS/RTOSDemo.Opt svn_needs-lock=*
 Demo/ARM7_LPC2129_Keil_RVDS/RTOSDemo.Uv2 svn_needs-lock=*
-Demo/ARM7_LPC2129_Keil_RVDS/RTOSDemo.plg svn_needs-lock=*
 Demo/ARM7_LPC2129_Keil_RVDS/RTOSDemo.sct svn_needs-lock=*
 Demo/ARM7_LPC2129_Keil_RVDS/RTOSDemo.tra svn_needs-lock=*
 Demo/ARM7_LPC2129_Keil_RVDS/RTOSDemoSignal.UVL svn_needs-lock=*
