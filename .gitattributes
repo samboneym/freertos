@@ -509,11 +509,19 @@ Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.core/specs.
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.cdt.make.ui/dialog_settings.xml svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.cdt.ui/cHelpSettings.xml svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.cdt.ui/dialog_settings.xml svn_needs-lock=*
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/2f/4b/45/properties.index svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/33/5b/e7/7a/properties.index svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/33/a8/history.index svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/33/history.index svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/33/properties.index svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/history.index svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.indexes/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/RTOSDemo/.markers svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/19.tree svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/23.tree svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prj-RTOSDemo.prefs svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_Eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.core.prefs svn_needs-lock=*
