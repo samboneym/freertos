@@ -1785,9 +1785,12 @@ Demo/PPC405_Xilinx_Virtex4_GCC/system.mhs svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system.mss svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system.xmp svn_needs-lock=*
 Demo/PPC405_Xilinx_Virtex4_GCC/system_incl.make svn_needs-lock=*
+Demo/Unsupported_Demos/AT32AP7000_AVR32_FreeRTOS.zip svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/AT91SAM9260_Rowley_lwIP_BK.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/BasicDemo_[!!-~]FreeRTOS[!!-~]5.0.3[!!-~]STM32[!!-~]with[!!-~]Rowley_RL.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/Blackfin_BF533_VDSP_LY.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/CORTEX_STM32F103_Primer2_GCC.rar svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/CORTEX_STM32F103_Rowley.zip svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/Free_RTOS_Demo_With_FatFS_and_LPCUSB-JCW.gz svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/HCS12_HCS12X_CodeWarrior_OAF.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/Jennic_JN5139_GCC_IM.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
@@ -1797,6 +1800,7 @@ Demo/Unsupported_Demos/M16C_iar_FD.zip svn_needs-lock=* svn_mime_002dtype=applic
 Demo/Unsupported_Demos/Mico32_GCC_KF.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/OMAP_L137_kh.zip svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/PIC_18F8520_in_VEX_Controller_20081123_PM.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Unsupported_Demos/Posix_GCC_Simulator_For_Linux.zip svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/SAM7X_Keil_RVDS_lwIP_1.3_MM.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/STR9_GCC_BH.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Unsupported_Demos/STR9_lwIP_1_3_0_GCC_SO.zip svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
