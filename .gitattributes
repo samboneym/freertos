@@ -753,6 +753,8 @@ Demo/CORTEX_STM32F103_Primer_GCC/bitmap.h svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/main.c svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/printf-stdarg.c svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/timertest.c svn_needs-lock=*
+Demo/ColdFire_MCF51CN128_CodeWarrior/Default.mem svn_mime_002dtype=application%2Foctet-stream
+Demo/ColdFire_MCF51CN128_CodeWarrior/RTOSDemo.mcp svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52221_CodeWarrior/RTOSDemo.mcp svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52221_CodeWarrior/RTOSDemo_Data/CWSettingsWindows.stg svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF52221_CodeWarrior/RTOSDemo_Data/INTERNAL_FLASH/TargetDataWindows.tdt svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
