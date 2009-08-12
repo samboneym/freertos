@@ -1174,6 +1174,7 @@ Demo/Common/drivers/LuminaryMicro/IAR/grlib.a svn_needs-lock=* svn_mime_002dtype
 Demo/Common/drivers/LuminaryMicro/Keil/driverlib.lib svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/Keil/grlib.lib svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/Rowley/libdriver.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/Common/drivers/LuminaryMicro/Rowley/libgr.a svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/adc.h svn_needs-lock=*
 Demo/Common/drivers/LuminaryMicro/arm-none-eabi-gcc/libdriver.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/drivers/LuminaryMicro/arm-none-eabi-gcc/libgr.a svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
