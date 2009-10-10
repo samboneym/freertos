@@ -1974,7 +1974,6 @@ Demo/uIP_Demo_IAR_ARM7/SrcIAR/Cstartup.s svn_needs-lock=*
 Demo/uIP_Demo_IAR_ARM7/resource/at91SAM7X256_FLASH.icf svn_needs-lock=*
 Demo/uIP_Demo_IAR_ARM7/uip/fs/img/logo.png svn_mime_002dtype=application%2Foctet-stream
 Demo/uIP_Demo_Rowley_ARM7/uip/fs/img/bg.png svn_mime_002dtype=application%2Foctet-stream
-Source/include/StackMacros.h svn_needs-lock=*
 Source/portable/CodeWarrior/ColdFire_V2/port.c svn_needs-lock=*
 Source/portable/CodeWarrior/ColdFire_V2/portasm.S svn_needs-lock=*
 Source/portable/CodeWarrior/ColdFire_V2/portmacro.h svn_needs-lock=*
