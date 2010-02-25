@@ -312,26 +312,6 @@ Demo/AVR32_UC3/BOARDS/EVK1101/evk1101.h svn_needs-lock=*
 Demo/AVR32_UC3/BOARDS/EVK1101/led.c svn_needs-lock=*
 Demo/AVR32_UC3/BOARDS/EVK1101/led.h svn_needs-lock=*
 Demo/AVR32_UC3/BOARDS/board.h svn_needs-lock=*
-Demo/AVR32_UC3/DOC/_formulas.tex svn_needs-lock=*
-Demo/AVR32_UC3/DOC/doxygen.css svn_needs-lock=*
-Demo/AVR32_UC3/DOC/doxygen.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/freertos.gif svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2blank.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2doc.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2folderclosed.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2folderopen.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2lastnode.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2link.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2mlastnode.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2mnode.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2node.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2plastnode.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2pnode.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/ftv2vertline.png svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/tab_b.gif svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/tab_l.gif svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/tab_r.gif svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-Demo/AVR32_UC3/DOC/tabs.css svn_needs-lock=*
 Demo/AVR32_UC3/DRIVERS/GPIO/gpio.c svn_needs-lock=*
 Demo/AVR32_UC3/DRIVERS/GPIO/gpio.h svn_needs-lock=*
 Demo/AVR32_UC3/DRIVERS/INTC/intc.c svn_needs-lock=*
