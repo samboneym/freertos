@@ -361,6 +361,7 @@ Demo/AVR32_UC3/doxyfile.doxygen svn_needs-lock=*
 Demo/AVR32_UC3/freertos.gif svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 Demo/AVR32_UC3/main.c svn_needs-lock=*
 Demo/AVR32_UC3/serial/serial.c svn_needs-lock=*
+Demo/CORTEX_EFMG890F128_IAR/CMSIS/License.doc svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3S102_GCC/hw_include/libdriver.a svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3S102_Rowley/hw_include/libdriver.a svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3S316_IAR/LM3S316.icf svn_needs-lock=*
