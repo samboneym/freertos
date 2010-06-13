@@ -1875,7 +1875,6 @@ Source/portable/CodeWarrior/ColdFire_V2/portmacro.h svn_needs-lock=*
 Source/portable/GCC/ARM7_LPC23xx/port.c svn_needs-lock=*
 Source/portable/GCC/ARM7_LPC23xx/portISR.c svn_needs-lock=*
 Source/portable/GCC/ARM7_LPC23xx/portmacro.h svn_needs-lock=*
-Source/portable/GCC/AVR32_UC3/exception.S svn_needs-lock=*
 Source/portable/GCC/AVR32_UC3/port.c svn_needs-lock=*
 Source/portable/GCC/AVR32_UC3/portmacro.h svn_needs-lock=*
 Source/portable/GCC/ColdFire_V2/port.c svn_needs-lock=*
