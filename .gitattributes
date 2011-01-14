@@ -670,6 +670,7 @@ Demo/CORTEX_STM32F103_Primer_GCC/bitmap.h svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/main.c svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/printf-stdarg.c svn_needs-lock=*
 Demo/CORTEX_STM32F103_Primer_GCC/timertest.c svn_needs-lock=*
+Demo/CORTEX_STM32L152_IAR/system_and_ST_code/CMSIS/License.doc svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTUS_APS3_GCC/BSP_ProjectForDebugging.zip svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF51CN128_CodeWarrior/Default.mem svn_mime_002dtype=application%2Foctet-stream
 Demo/ColdFire_MCF51CN128_CodeWarrior/RTOSDemo.mcp svn_mime_002dtype=application%2Foctet-stream
