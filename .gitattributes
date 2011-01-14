@@ -1774,7 +1774,6 @@ Demo/WizNET_DEMO_TERN_186/RTOSDemo.ide svn_mime_002dtype=application%2Foctet-str
 Demo/WizNET_DEMO_TERN_186/RTOSDemo.mbt svn_mime_002dtype=application%2Foctet-stream
 Demo/WizNET_DEMO_TERN_186/RTOSDemo.mrt svn_mime_002dtype=application%2Foctet-stream
 Demo/WizNET_DEMO_TERN_186/RTOSDemo.rom svn_mime_002dtype=application%2Foctet-stream
-Demo/_Cortex_STM32L152_IAR/system_and_ST_code/CMSIS/License.doc svn_mime_002dtype=application%2Foctet-stream
 Demo/dsPIC_MPLAB/RTOSDemo.mcw svn_mime_002dtype=application%2Foctet-stream
 Demo/dsPIC_MPLAB/lcd.c svn_needs-lock=*
 Demo/dsPIC_MPLAB/lcd.h svn_needs-lock=*
