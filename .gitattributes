@@ -1563,8 +1563,7 @@ Demo/PC/RTOSDEMO.IDE svn_mime_002dtype=application%2Foctet-stream
 Demo/PC/rtosdemo.DSW svn_mime_002dtype=application%2Foctet-stream
 Demo/PIC18_MPLAB/rtosdemo.mcw svn_mime_002dtype=application%2Foctet-stream
 Demo/PIC24_MPLAB/RTOSDemo.mcw svn_mime_002dtype=application%2Foctet-stream
-Demo/PIC32MX_MPLAB/RTOSDemo.mcp svn_needs-lock=*
-Demo/PIC32MX_MPLAB/RTOSDemo.mcw svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
+Demo/PIC32MX_MPLAB/RTOSDemo.mcw svn_mime_002dtype=application%2Foctet-stream
 Demo/PPC405_FPU_Xilinx_Virtex4_GCC/RTOSDemo/FreeRTOSConfig.h svn_needs-lock=*
 Demo/PPC405_FPU_Xilinx_Virtex4_GCC/RTOSDemo/RTOSDemo_linker_script.ld svn_needs-lock=*
 Demo/PPC405_FPU_Xilinx_Virtex4_GCC/RTOSDemo/flop/flop-reg-test.c svn_needs-lock=*
