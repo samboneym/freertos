@@ -291,6 +291,7 @@ Demo/ARM9_STR91X_IAR/lwip/lwipWebServer/httpd.c svn_needs-lock=*
 Demo/ARM9_STR91X_IAR/lwip/netif/ethernetif.c svn_needs-lock=*
 Demo/ARM9_STR91X_IAR/settings/RTOSDemo.cspy.bat svn_needs-lock=*
 Demo/AVR32_UC3/freertos.gif svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_A2F200_SoftConsole/WebServer/httpd-fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_CY8C5588_PSoC_Creator_GCC/FreeRTOS_Demo.cydsn/FreeRTOS_Demo.cydwr svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_CY8C5588_PSoC_Creator_GCC/FreeRTOS_Demo.cydsn/TopDesign/TopDesign.cysch svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_CY8C5588_PSoC_Creator_Keil/FreeRTOS_Demo.cydsn/FreeRTOS_Demo.cydwr svn_mime_002dtype=application%2Foctet-stream
