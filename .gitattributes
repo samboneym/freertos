@@ -570,6 +570,7 @@ Demo/CORTEX_LM3Sxxxx_IAR_Keil/webserver/httpd.h svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_IAR_Keil/webserver/uIP_Task.c svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_IAR_Keil/webserver/uip-conf.h svn_needs-lock=*
 Demo/CORTEX_LM3Sxxxx_IAR_Keil/webserver/webserver.h svn_needs-lock=*
+Demo/CORTEX_STM32F100_Atollic/Libraries/CMSIS/License.doc svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_STM32F103_IAR/FreeRTOSConfig.h svn_needs-lock=*
 Demo/CORTEX_STM32F103_IAR/LCD_Message.h svn_needs-lock=*
 Demo/CORTEX_STM32F103_IAR/ParTest/ParTest.c svn_needs-lock=*
