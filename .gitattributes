@@ -271,6 +271,7 @@ Demo/CORTEX_CY8C5588_PSoC_Creator_Keil/FreeRTOS_Demo.cydsn/TopDesign/TopDesign.c
 Demo/CORTEX_CY8C5588_PSoC_Creator_RVDS/FreeRTOS_Demo.cydsn/FreeRTOS_Demo.cydwr svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_CY8C5588_PSoC_Creator_RVDS/FreeRTOS_Demo.cydsn/TopDesign/TopDesign.cysch svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_EFMG890F128_IAR/CMSIS/License.doc svn_mime_002dtype=application%2Foctet-stream
+Demo/CORTEX_Kinetis_K60_Tower_IAR/webserver/httpd-fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3S102_GCC/hw_include/libdriver.a svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3S102_Rowley/hw_include/libdriver.a svn_mime_002dtype=application%2Foctet-stream
 Demo/CORTEX_LM3S316_IAR/LM3S316.icf svn_needs-lock=*
