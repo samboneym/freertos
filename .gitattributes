@@ -1339,6 +1339,7 @@ Demo/Common/ethernet/lwIP_130/src/netif/ppp/vj.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/src/netif/ppp/vjbsdhdr.h svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/src/netif/slipif.c svn_needs-lock=*
 Demo/Common/ethernet/lwIP_130/src/netif/stf91x_ethernetif.c svn_needs-lock=*
+Demo/Common/ethernet/lwip-1.4.0/ports/win32/WinPCap/wpcap.lib svn_mime_002dtype=application%2Foctet-stream
 Demo/Common/ethernet/uIP/uip-1.0/apps/webserver/httpd-fs/fade.png svn_mime_002dtype=application%2Foctet-stream
 Demo/Flshlite/RTOSDEMO.IDE svn_mime_002dtype=application%2Foctet-stream
 Demo/Flshlite/rtosdemo.DSW svn_mime_002dtype=application%2Foctet-stream
