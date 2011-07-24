@@ -1420,7 +1420,6 @@ Demo/MB96350_Softune_Dice_Kit/readme.txt svn_needs-lock=*
 Demo/MB96350_Softune_Dice_Kit/vectors.c svn_needs-lock=*
 Demo/MicroBlaze_Spartan-6_EthernetLite/SDKProjects/HardwareWithEthernetLite/download.bit svn_mime_002dtype=application%2Foctet-stream
 Demo/MicroBlaze_Spartan-6_EthernetLite/SDKProjects/HardwareWithEthernetLite/system.bit svn_mime_002dtype=application%2Foctet-stream
-Demo/MicroBlaze_Spartan-6_EthernetLite/SDKProjects/RTOSDemoSource/lwIP/lwIP_Apps/apps/httpserver_raw/makefsdata/MakeFSData_proj.suo svn_mime_002dtype=application%2Foctet-stream
 Demo/MicroBlaze_Spartan-6_EthernetLite/SDKProjects/RTOSDemoSource/lwIP/lwIP_Apps/apps/httpserver_raw/makefsdata/fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
 Demo/MicroBlaze_Spartan-6_EthernetLite/SDKProjects/RTOSDemoSource/lwIP/lwIP_Apps/apps/httpserver_raw/makefsdata/makefsdata.exe svn_mime_002dtype=application%2Foctet-stream
 Demo/NEC_78K0R_IAR/cstartup.s26 svn_needs-lock=*
