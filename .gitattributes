@@ -1586,6 +1586,7 @@ Demo/RX600_RX630-RSK_Renesas/RTOSDemo svnc_bugtraq_003anumber=true
 Demo/RX600_RX630-RSK_Renesas/RTOSDemo/RTOSDemo.nav svn_mime_002dtype=application%2Foctet-stream
 Demo/RX600_RX630-RSK_Renesas/RTOSDemo/Renesas-Files svnc_bugtraq_003anumber=true
 Demo/RX600_RX630-RSK_Renesas/RTOSDemo/include svnc_bugtraq_003anumber=true
+Demo/RX600_RX63N-RSK_Renesas/RTOSDemo/RTOSDemo.nav svn_mime_002dtype=application%2Foctet-stream
 Demo/SuperH_SH7216_Renesas/RTOSDemo/RTOSDemo.nav svn_mime_002dtype=application%2Foctet-stream
 Demo/SuperH_SH7216_Renesas/RTOSDemo/webserver/httpd-fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
 Demo/TriCore_TC1782_TriBoard_GCC svnc_bugtraq_003anumber=true
