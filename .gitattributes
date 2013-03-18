@@ -1575,8 +1575,8 @@ FreeRTOS/Demo/PPC440_Xilinx_Virtex5_GCC/__xps/ise/system_xdb/tmp/ise/__OBJSTORE_
 FreeRTOS/Demo/PPC440_Xilinx_Virtex5_GCC/__xps/ise/system_xdb/tmp/ise/__OBJSTORE__/xreport/Gc_RvReportViewer-Module-Data-system_StrTbl svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/PPC440_Xilinx_Virtex5_GCC/__xps/ise/system_xdb/tmp/ise/__OBJSTORE__/xreport/Gc_RvReportViewer-Module-DataFactory-Default svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/PPC440_Xilinx_Virtex5_GCC/__xps/ise/system_xdb/tmp/ise/__OBJSTORE__/xreport/Gc_RvReportViewer-Module-DataFactory-Default_StrTbl svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/RL78_RL78G13_Promo_Board_IAR svnc_bugtraq_003anumber=true
-FreeRTOS/Demo/RL78_RL78G13_Promo_Board_IAR/settings svnc_bugtraq_003anumber=true
+FreeRTOS/Demo/RL78_multiple_IAR svnc_bugtraq_003anumber=true
+FreeRTOS/Demo/RL78_multiple_IAR/settings svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/RX200_RX210-RSK_Renesas svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/RX200_RX210-RSK_Renesas/RTOSDemo svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/RX200_RX210-RSK_Renesas/RTOSDemo/Blinky svnc_bugtraq_003anumber=true
