@@ -498,6 +498,7 @@ FreeRTOS/Demo/CORTEX_LM3Sxxxx_Eclipse/program.script svn_needs-lock=*
 FreeRTOS/Demo/CORTEX_M0_LPC1114_LPCXpresso/CMSISv2p00_LPC11xx/docs/CMSIS[!!-~]END[!!-~]USER[!!-~]LICENCE[!!-~]AGREEMENT.pdf svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_M0_STM32F0518_IAR/Libraries/CMSIS/CMSIS[!!-~]END[!!-~]USER[!!-~]LICENCE[!!-~]AGREEMENT.pdf svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_M0_STM32F0518_IAR/Libraries/MCD-ST[!!-~]Liberty[!!-~]SW[!!-~]License[!!-~]Agreement[!!-~]V2.pdf svn_mime_002dtype=application%2Foctet-stream
+FreeRTOS/Demo/CORTEX_M4_ATSAM4L_Atmel_Studio/src/asf/thirdparty/CMSIS/CMSIS[!!-~]END[!!-~]USER[!!-~]LICENCE[!!-~]AGREEMENT.pdf svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_M4_ATSAM4S_Atmel_Studio/RTOSDemo.atsuo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_M4_ATSAM4S_Atmel_Studio/src/asf/thirdparty/CMSIS/CMSIS[!!-~]END[!!-~]USER[!!-~]LICENCE[!!-~]AGREEMENT.pdf svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_MB9A310_IAR_Keil svnc_bugtraq_003anumber=true
