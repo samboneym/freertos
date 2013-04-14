@@ -1617,11 +1617,9 @@ FreeRTOS/Demo/TriCore_TC1782_TriBoard_GCC/RTOSDemo/ThirdPartyCode svnc_bugtraq_0
 FreeRTOS/Demo/TriCore_TC1782_TriBoard_GCC/ld svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/TriCore_TC1782_TriBoard_GCC/models svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/TriCore_TC1782_TriBoard_GCC/models/.parts svnc_bugtraq_003anumber=true
-FreeRTOS/Demo/WIN32-MSVC-lwIP/WIN32.suo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/WIN32-MSVC-lwIP/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/MakeFSData_proj.suo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/WIN32-MSVC-lwIP/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/WIN32-MSVC-lwIP/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/makefsdata.exe svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/WIN32-MSVC/WIN32.suo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/WizNET_DEMO_TERN_186/AE.LIB svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/WizNET_DEMO_TERN_186/RTOSDemo.DSW svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/WizNET_DEMO_TERN_186/RTOSDemo.ide svn_mime_002dtype=application%2Foctet-stream
