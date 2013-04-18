@@ -1,13 +1,3 @@
-FreeRTOS-Plus/CyaSSL/certs/ca-key.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/client-cert.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/client-key.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/dh2048.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/dsa2048.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/ecc-key.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/ntru-key.raw svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/CyaSSL/certs/rsa2048.der svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/Demo_Projects_Using_FreeRTOS_Simulator/FreeRTOS_Plus_CLI_with_Trace/FreeRTOS_Plus_CLI_with_Trace.suo svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS-Plus/Demo_Projects_Using_FreeRTOS_Simulator/FreeRTOS_Plus_CyaSSL/FreeRTOS_Plus_CyaSSL.suo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/ARM7_AT91SAM7S64_IAR/SrcIAR/Cstartup.s svn_needs-lock=*
 FreeRTOS/Demo/ARM7_AT91SAM7S64_IAR/resource/at91SAM7S64_FLASH.icf svn_needs-lock=*
 FreeRTOS/Demo/ARM7_AT91SAM7S64_IAR/settings/rtosdemo_lnk.par svn_needs-lock=*
