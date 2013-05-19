@@ -904,14 +904,6 @@ FreeRTOS/Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_UART.h svn_needs
 FreeRTOS/Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/MCF5282/MCF5282_WTM.h svn_needs-lock=*
 FreeRTOS/Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-dram_code-rambar_data-hosted.ld svn_needs-lock=*
 FreeRTOS/Demo/ColdFire_MCF5282_Eclipse/RTOSDemo/m5282evb-ram.ld svn_needs-lock=*
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/f1.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/f2.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/f3.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/f4.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/f5.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/layers.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/rwtest.png svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/FileSystem/FatFs-0.7e/doc/img/rwtest2.png svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/Common/drivers/Atmel/at91lib/boards/at91sam9xe-ek/at91sam9xe128/AT91SAM9XE128.h svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/Atmel/at91lib/boards/at91sam9xe-ek/at91sam9xe128/flash.icf svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/Atmel/at91lib/boards/at91sam9xe-ek/at91sam9xe128/sdram.icf svn_needs-lock=*
