@@ -1035,9 +1035,6 @@ FreeRTOS/Demo/Common/drivers/LuminaryMicro/timer.h svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/LuminaryMicro/uart.h svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/LuminaryMicro/ustdlib.c svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/LuminaryMicro/watchdog.h svn_needs-lock=*
-FreeRTOS/Demo/Common/drivers/OpenOCD/license.txt svn_needs-lock=*
-FreeRTOS/Demo/Common/drivers/OpenOCD/openocd-pp.exe svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
-FreeRTOS/Demo/Common/drivers/OpenOCD/openocd_ftdi.exe svn_needs-lock=* svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/Common/drivers/ST/STM32F10xFWLib/inc/cortexm3_macro.h svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/ST/STM32F10xFWLib/inc/lcd.h svn_needs-lock=*
 FreeRTOS/Demo/Common/drivers/ST/STM32F10xFWLib/inc/spi_flash.h svn_needs-lock=*
