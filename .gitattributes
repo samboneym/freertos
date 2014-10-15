@@ -286,6 +286,10 @@ FreeRTOS/Demo/CORTEX_A5_SAMA5D3x_Xplained_IAR/AtmelFiles/usb/device/USBDCallback
 FreeRTOS/Demo/CORTEX_A5_SAMA5D3x_Xplained_IAR/AtmelFiles/usb/device/USBDeviceStateDiagram.png svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_A5_SAMA5D3x_Xplained_IAR/AtmelFiles/usb/device/cdc-serial/CDCarchitecture.png svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_A5_SAMA5D3x_Xplained_IAR/AtmelFiles/usb/device/cdc-serial/USB-SerialConverter.png svn_mime_002dtype=application%2Foctet-stream
+FreeRTOS/Demo/CORTEX_A5_SAMA5D4x_EK_IAR/AtmelFiles/usb/device/USBDCallbackInvocationFlowchart.png svn_mime_002dtype=application%2Foctet-stream
+FreeRTOS/Demo/CORTEX_A5_SAMA5D4x_EK_IAR/AtmelFiles/usb/device/USBDeviceStateDiagram.png svn_mime_002dtype=application%2Foctet-stream
+FreeRTOS/Demo/CORTEX_A5_SAMA5D4x_EK_IAR/AtmelFiles/usb/device/cdc-serial/CDCarchitecture.png svn_mime_002dtype=application%2Foctet-stream
+FreeRTOS/Demo/CORTEX_A5_SAMA5D4x_EK_IAR/AtmelFiles/usb/device/cdc-serial/USB-SerialConverter.png svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_A9_Cyclone_V_SoC_DK/uboot-socfpga/spl/u-boot-spl svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_A9_Zynq_ZC702/RTOSDemo/src/lwIP_Demo/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/MakeFSData_proj.suo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_A9_Zynq_ZC702/RTOSDemo/src/lwIP_Demo/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
