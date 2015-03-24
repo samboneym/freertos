@@ -1426,7 +1426,6 @@ FreeRTOS/Demo/MB96350_Softune_Dice_Kit/mb96356rs.h svn_needs-lock=*
 FreeRTOS/Demo/MB96350_Softune_Dice_Kit/options.dat svn_needs-lock=*
 FreeRTOS/Demo/MB96350_Softune_Dice_Kit/readme.txt svn_needs-lock=*
 FreeRTOS/Demo/MB96350_Softune_Dice_Kit/vectors.c svn_needs-lock=*
-FreeRTOS/Demo/MicroBlaze_Kintex7_EthernetLite/Hardware/base_microblaze_design_wrapper.bit svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/MicroBlaze_Kintex7_EthernetLite/Hardware/system.hdf svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/MicroBlaze_Kintex7_EthernetLite/RTOSDemo/src/lwIP_Demo/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/MakeFSData_proj.suo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/MicroBlaze_Kintex7_EthernetLite/RTOSDemo/src/lwIP_Demo/lwIP_Apps/apps/httpserver_raw_from_lwIP_download/makefsdata/fs/logo.jpg svn_mime_002dtype=application%2Foctet-stream
