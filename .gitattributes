@@ -524,6 +524,7 @@ FreeRTOS/Demo/CORTEX_M4F_ATSAM4E_Atmel_Studio/RTOSDemo.atsuo svn_mime_002dtype=a
 FreeRTOS/Demo/CORTEX_M4_ATSAM4L_Atmel_Studio/src/asf/thirdparty/CMSIS/CMSIS[!!-~]END[!!-~]USER[!!-~]LICENCE[!!-~]AGREEMENT.pdf svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_M4_ATSAM4S_Atmel_Studio/RTOSDemo.atsuo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_M4_ATSAM4S_Atmel_Studio/src/asf/thirdparty/CMSIS/CMSIS[!!-~]END[!!-~]USER[!!-~]LICENCE[!!-~]AGREEMENT.pdf svn_mime_002dtype=application%2Foctet-stream
+FreeRTOS/Demo/CORTEX_M7_SAMV71_Xplained_AtmelStudio/RTOSDemo.atsuo svn_mime_002dtype=application%2Foctet-stream
 FreeRTOS/Demo/CORTEX_MB9A310_IAR_Keil svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/CORTEX_MB9A310_IAR_Keil/Fujitu_source svnc_bugtraq_003anumber=true
 FreeRTOS/Demo/CORTEX_MB9A310_IAR_Keil/Fujitu_source/startup_iar svnc_bugtraq_003anumber=true
